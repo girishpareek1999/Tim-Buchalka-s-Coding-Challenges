@@ -1,7 +1,7 @@
 
 package codingexercises;
 
-public class CodingExercises {
+public class WhatTypeOfNumberItIs {
     
     public static void main(String[] args) {
         checkMain(0);
